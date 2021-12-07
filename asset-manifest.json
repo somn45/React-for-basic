@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/React-for-basic/static/js/main.89f6348b.chunk.js",
+    "main.js.map": "/React-for-basic/static/js/main.89f6348b.chunk.js.map",
+    "runtime-main.js": "/React-for-basic/static/js/runtime-main.ea1f6cf1.js",
+    "runtime-main.js.map": "/React-for-basic/static/js/runtime-main.ea1f6cf1.js.map",
+    "static/js/2.991f9832.chunk.js": "/React-for-basic/static/js/2.991f9832.chunk.js",
+    "static/js/2.991f9832.chunk.js.map": "/React-for-basic/static/js/2.991f9832.chunk.js.map",
+    "index.html": "/React-for-basic/index.html",
+    "static/js/2.991f9832.chunk.js.LICENSE.txt": "/React-for-basic/static/js/2.991f9832.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea1f6cf1.js",
+    "static/js/2.991f9832.chunk.js",
+    "static/js/main.89f6348b.chunk.js"
+  ]
+}
